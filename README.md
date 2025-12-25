@@ -1,3 +1,5 @@
+🚧 Note: Live demo temporarily down due to database issue. Code and features available in repository.
+
 # AI Career Coach App
 
 A web application that provides personalized career guidance using AI prompts and user inputs.
